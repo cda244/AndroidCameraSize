@@ -1,0 +1,16 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1378375853000 480 e53b27df22d6e274039e14b9deef14ebb7d7bb16 /workspace/_lab/cda244/git/AndroidCameraSize/workspace/AndroidCameraSizeProject/AndroidCameraSize/build/classes/debug/com/cda244/sample/androidcamerasize/R$id.class
+1378375717000 379 b7717def05a689e8220d0ac584a34f5258c60c3d /workspace/_lab/cda244/git/AndroidCameraSize/workspace/AndroidCameraSizeProject/AndroidCameraSize/build/classes/debug/com/cda244/sample/androidcamerasize/BuildConfig.class
+1378375717000 391 71f95d450c1709483019b3f90c1cc50f4af6869b /workspace/_lab/cda244/git/AndroidCameraSize/workspace/AndroidCameraSizeProject/AndroidCameraSize/build/classes/debug/com/cda244/sample/androidcamerasize/R$attr.class
+1378375853000 1820 7fb8dd57482d599257b8f2bd2badd54d516f2d8c /workspace/_lab/cda244/git/AndroidCameraSize/workspace/AndroidCameraSizeProject/AndroidCameraSize/build/classes/debug/com/cda244/sample/androidcamerasize/MainActivity.class
+1378375717000 458 6eb3d087ca1fb62db90747ccad8b0ace84f276e9 /workspace/_lab/cda244/git/AndroidCameraSize/workspace/AndroidCameraSizeProject/AndroidCameraSize/build/classes/debug/com/cda244/sample/androidcamerasize/R$drawable.class
+1378375853000 439 720464e8c4a41f897b771212d01d5d89a2268185 /workspace/_lab/cda244/git/AndroidCameraSize/workspace/AndroidCameraSizeProject/AndroidCameraSize/build/classes/debug/com/cda244/sample/androidcamerasize/R$menu.class
+1378375853000 847 93ecd7aa10abc7e6a5b8b1f68e57e132f7e63076 /workspace/_lab/cda244/git/AndroidCameraSize/workspace/AndroidCameraSizeProject/AndroidCameraSize/build/classes/debug/com/cda244/sample/androidcamerasize/R.class
+1378375853000 3670 6e49077ee499aaa210982101465cc624ba5002c6 /workspace/_lab/cda244/git/AndroidCameraSize/workspace/AndroidCameraSizeProject/AndroidCameraSize/build/classes/debug/com/cda244/sample/androidcamerasize/MainActivity$1.class
+1378375717000 512 5505667583bf1a750c0dcb776fc11e14a9ec95af /workspace/_lab/cda244/git/AndroidCameraSize/workspace/AndroidCameraSizeProject/AndroidCameraSize/build/classes/debug/com/cda244/sample/androidcamerasize/R$dimen.class
+1378375853000 454 f69a3b8a25509be71d25c71146545e9b3ef5ccb7 /workspace/_lab/cda244/git/AndroidCameraSize/workspace/AndroidCameraSizeProject/AndroidCameraSize/build/classes/debug/com/cda244/sample/androidcamerasize/R$layout.class
+1378375853000 523 dd05584b1485f12bab3521c7870cd9ce80a360ab /workspace/_lab/cda244/git/AndroidCameraSize/workspace/AndroidCameraSizeProject/AndroidCameraSize/build/classes/debug/com/cda244/sample/androidcamerasize/R$string.class
+1378375853000 482 3f458236e74ee9a1ee2c3fe9b0c5f68bdebe090b /workspace/_lab/cda244/git/AndroidCameraSize/workspace/AndroidCameraSizeProject/AndroidCameraSize/build/classes/debug/com/cda244/sample/androidcamerasize/R$style.class
+1378364347000 563264 44ec51e9d395a47aab135e5e1b556c0007442156 /Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar
